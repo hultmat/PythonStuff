@@ -5,4 +5,8 @@
 
 #### BeslutsFINALFINAL: works with a huge dataset EUR-USD and predicts the near future and calculates the accuracy
 
-#### PrimtalsTestPythonSPEL: guess if your number is a primenumber
+#### minigame_PrimtalsTestPythonSPEL: guess if your number is a primenumber
+
+#### minigame_
+
+#### minigame_
