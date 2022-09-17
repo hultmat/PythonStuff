@@ -6,9 +6,3 @@
 #### BeslutsFINALFINAL: works with a huge dataset EUR-USD and predicts the near future and calculates the accuracy
 
 #### StockData: similar project to BeslutsFINALFINAL but with stocks instead of eur-usd dataset
-
-#### minigame_PrimtalsTestPythonSPEL: guess if your number is a primenumber
-
-#### minigame_
-
-#### minigame_
