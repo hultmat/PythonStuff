@@ -6,3 +6,4 @@
 #### BeslutsFINALFINAL: works with a huge dataset EUR-USD and predicts the near future and calculates the accuracy
 
 #### StockData: similar project to BeslutsFINALFINAL but with stocks instead of eur-usd dataset
+#### (Works only in https://notebooks.csc.fi and thus is broken here)
